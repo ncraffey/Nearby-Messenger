@@ -1,0 +1,1 @@
+An iOS app using the [Google Nearby Messages API](https://developers.google.com/nearby/).
